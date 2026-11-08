@@ -1,0 +1,9 @@
+/build/
+/build-clang/
+/.vs/
+/.vscode/
+*.user
+*.suo
+*.obj
+*.pdb
+*.exe
